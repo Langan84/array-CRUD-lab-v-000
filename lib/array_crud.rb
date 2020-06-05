@@ -10,7 +10,7 @@ def add_element_to_end_of_array(cool_dogs, spanial)
  cool_dogs << "spanial"
 end
 
-def add_element_to_start_of_array(array, element)
+def add_element_to_start_of_array(arrays, element)
 cool_dogs.unshift("Labrador")
 end
 
