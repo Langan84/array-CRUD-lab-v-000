@@ -19,7 +19,7 @@ labrador = cool_dogs.pop
 end
 
 def remove_element_from_start_of_array(cool_dogs)
-Poodle = cool_dogs.shift
+poodle = cool_dogs.shift
 end
 
 def retrieve_element_from_index(array, index_number)
