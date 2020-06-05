@@ -15,11 +15,11 @@ cool_dogs.unshift("Labrador")
 end
 
 def remove_element_from_end_of_array(array)
-
+labrador = cool_dogs.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+Poodle = cool_dogs.shift
 end
 
 def retrieve_element_from_index(array, index_number)
