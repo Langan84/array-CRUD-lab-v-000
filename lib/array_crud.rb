@@ -26,10 +26,10 @@ def retrieve_element_from_index(cool_dogs, 0)
  cool_dogs[0]
 end
 
-def retrieve_first_element_from_array(array)
-
+def retrieve_first_element_from_array(cool_dogs)
+cool_dogs.first
 end
 
-def retrieve_last_element_from_array(array)
-
+def retrieve_last_element_from_array(cool_dogs)
+cool_dogs.last
 end
