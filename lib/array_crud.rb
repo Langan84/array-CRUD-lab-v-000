@@ -22,7 +22,7 @@ def remove_element_from_start_of_array(cool_dogs)
 wow = cool_dogs.shift
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(cool_dogs, 0)
 
 end
 
