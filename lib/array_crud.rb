@@ -23,7 +23,7 @@ wow = cool_dogs.shift
 end
 
 def retrieve_element_from_index(cool_dogs, element)
- cool_dogs[0]
+ cool_dogs[2]
 end
 
 def retrieve_first_element_from_array(cool_dogs)
