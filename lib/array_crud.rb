@@ -3,15 +3,15 @@ def create_an_empty_array
 end
 
 def create_an_array
- ["Poodle", "Pug", "Sausage dog", "French Bulldog"]
+ cool_dogs = ["Poodle", "Pug", "Sausage dog", "French Bulldog"]
 end
 
 def add_element_to_end_of_array(array, element)
-
+ cool_dogs << "Spanial"
 end
 
 def add_element_to_start_of_array(array, element)
-
+cool_dogs.unshift("Labrador")
 end
 
 def remove_element_from_end_of_array(array)
